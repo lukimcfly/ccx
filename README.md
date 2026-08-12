@@ -95,4 +95,8 @@ It behaves identically offline.
 
 ## License
 
-MIT
+MIT — free forever, no strings.
+
+If it showed you something useful about your own spend, you can
+[buy me a coffee](https://ko-fi.com/lukimcfly). Entirely optional; the tool is
+identical either way.
